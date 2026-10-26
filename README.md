@@ -52,5 +52,4 @@ I believe good software engineering goes beyond writing code. It means understan
 
 ## 🤝 Connect With Me
 
-* GitHub: [Explore my repositories](YOUR_GITHUB_PROFILE_URL)
-* LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+* LinkedIn: [Connect with me](https://www.linkedin.com/in/thomas-teklay-4929853a0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
