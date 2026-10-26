@@ -28,7 +28,7 @@ Features include stock discovery, direct buying and selling, portfolio managemen
 
 **Tech stack:** JavaScript, Vite, PHP, MySQL
 
-[Explore the repository](YOUR_STOCK_EXCHANGE_REPOSITORY_URL)
+[Explore the repository](https://github.com/AviatorLabs/stock-exchange)
 
 ## 🌱 Currently Learning
 
